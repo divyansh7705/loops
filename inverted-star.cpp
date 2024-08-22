@@ -15,3 +15,11 @@ int main()
         cout<<endl;
     }
 }
+/*
+Enter your choice: 5
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+*/
