@@ -23,4 +23,12 @@ int main()
         k--;
         cout<<"\n";
     }
-}5
+}
+/* output :
+Enter your choice: 5
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * * 
+*/
