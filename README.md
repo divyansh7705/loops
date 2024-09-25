@@ -17,7 +17,7 @@ Similar to the `while` loop, the `do-while` loop ensures that the code block exe
 
 Loops improve program functionality by handling repetitive activities efficiently, minimizing the need for unnecessary code. Using loops correctly is essential to developing efficient and well-designed C++ programs.<br>
 
-## Algorithm 1<br>
+## Algorithm for loop <br>
 
 1)Start.<br>
 
@@ -34,7 +34,7 @@ Loops improve program functionality by handling repetitive activities efficientl
 4)End the Loop when i becomes greater than 10.<br>
 5)Stop.<br>
 
-## Algorithm 2 <br>
+## Algorithm for loop counter <br>
 1)Start.<br>
 
 2)Initialize a loop counter i to 1.<br>
@@ -48,7 +48,7 @@ Loops improve program functionality by handling repetitive activities efficientl
 
 5)Stop<br>
 
-## algorithm 3 <br>
+## algorithm inerted star <br>
 
 1)Start.<br>
 
@@ -66,7 +66,7 @@ Loops improve program functionality by handling repetitive activities efficientl
 
 6)Stop.<br>
 
-## Algorithm 4 <br>
+## Algorithm for pyramid <br>
 
 1)Start.<br>
 
